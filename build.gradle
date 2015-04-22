@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+// Source sets in the project, specify source directories
+sourceSets {
+    main {
+        java.srcDir("${projectDir}/src/main/java/")
+        resources.srcDir("${projectDir}/src/main/resources/")
+    }
+}
+
+// Dependencies for the project are stored in the libs directory
+dependencies {
+    compile fileTree(dir: "libs", includes: ["*.jar"])
+    runtime fileTree(dir: "libs", includes: ["*.jar"])
+}

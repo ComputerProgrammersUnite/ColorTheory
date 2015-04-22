@@ -1,6 +1,5 @@
 package colortheory;
 
-
 public class ColorTheory {
 	public static double calculateSize(int initialRadius, int radiusOfCollision) {
 		// adds the values to determine size when collision happens

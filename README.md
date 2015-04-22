@@ -12,3 +12,7 @@ To Create an Eclipse project navigate to the same folder that the gradlew.bat fi
 
 ## Building the JAR file
 Open a command window the same way as when creating a project but instead of using the command `gradlew eclipse` use the command `gradlew clean build` and the project will build into a jar file as long as there are no errors with your setup of the project.
+
+## Was here
+Shelby Was Here
+Dylan Was Too

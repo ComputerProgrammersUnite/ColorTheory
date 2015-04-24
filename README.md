@@ -8,6 +8,7 @@ A game that teaches color theory in a simple yet fun way.
 
 ## Useful Links
 -2D java tutorial https://www.youtube.com/watch?v=Q0drI_LVIHE
+-Color mixer sample http://trycolors.com/
 
 ## Creating the Project
 -- Only The Method for Creating an Eclipse Project is Explained here --
